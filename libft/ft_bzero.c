@@ -6,7 +6,7 @@
 /*   By: rraffi-k <rraffi-k@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/03 11:55:28 by rraffi-k          #+#    #+#             */
-/*   Updated: 2023/05/09 14:58:52 by rraffi-k         ###   ########.fr       */
+/*   Updated: 2023/05/09 16:22:39 by rraffi-k         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,9 +14,9 @@
 
 void	ft_bzero(void *s, size_t n)
 {
-    unsigned char	*uchar;
-    uint64_t		*uint;
-    size_t			m;
+	unsigned char	*uchar;
+	uint64_t		*uint;
+	size_t			m;
 
 	m = n / 8;
 	uchar = (unsigned char *)s;
@@ -28,7 +28,7 @@ void	ft_bzero(void *s, size_t n)
 	uint = (uint64_t *)uchar;
 	while (n / sizeof(uint64_t))
 	{
-        *(uint++) = 0;
+		*(uint++) = 0;
 		n -= sizeof(uint64_t);
 	}
 	uchar = (unsigned char *)uint;

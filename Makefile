@@ -38,11 +38,11 @@ $(OBJ_PATH)/%.o:$(SRC_PATH)/%.c
 	${CC} ${CFLAGS} -c $< -o $@
 
 clean :
-	rm -rf ${OBJ_PATH}
+	rm -f ${OBJ_PATH}
 	make -C libft clean
 
 fclean : clean
-		rm -rf ${NAME} *.a
+		rm -f ${NAME} *.a
 		make -C libft fclean
 
 re : fclean all
