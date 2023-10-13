@@ -1,5 +1,5 @@
 # fdf
-<h1> "Fil de Fer" / "Wireframe model" </h1>h1>
+<h1> "Fil de Fer" / "Wireframe model" </h1>
 
 A program that represents a landscape as a 3D object in which all surfaces are outlined in lines. 
 
