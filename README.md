@@ -25,7 +25,7 @@ Scroll with your mouse to zoom in and out.
 
 <h2>Preview</h2>
 
-![Mountain map](Mountain_map.png)
+![Mountain map](Mountain_map2.png)
 
 
 
