@@ -20,9 +20,9 @@ To run the program :
 * ./fdf name_of_map.txt
 
 <h2>Features</h2>
-**Press Z** button to increase the heights.<br>
-**Press ->** and **<-** arrows to make the map rotate.<br>
-**Scroll** with your mouse to zoom in and out.
+** Press Z ** button to increase the heights.<br>
+** Press -> ** and ** <- ** arrows to make the map rotate.<br>
+** Scroll ** with your mouse to zoom in and out.
 
 <h2>Preview</h2>
 
