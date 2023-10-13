@@ -8,6 +8,7 @@ A program that represents a wireframe model, meaning that a landscape as a 3D ob
 * **Language** : *C*
 
 It takes a .txt file as an input. The file has to respect the following format :
+![File_format](File_format.png)
 
 Numbers represent the height of the "hills" and can be negative. 
 The number of columns and the number of lines can be different.
