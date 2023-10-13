@@ -1,6 +1,5 @@
-# fdf
-<h1> "Fil de Fer" / "Wireframe model" </h1>
-
+<h1> Wireframe model </h1>
+<h2>Fil de Fer</h2>
 A program that represents a landscape as a 3D object in which all surfaces are outlined in lines. 
 
 This project uses 42 graphical library, Minilibx, and is entirely written in C. It takes a .txt file as an input. The file has to respect the following format :
