@@ -10,7 +10,7 @@ A program that represents a wireframe model, meaning that a landscape as a 3D ob
 It takes a .txt file as an input. The file contains rows of numbers : <br>
  <img src="File_format.png" alt="File_format" class="center"> 
 
-Numbers represent the height of the "hills" and can be negative. 
+Numbers represent the "hills" heights and can be negative. 
 The number of columns and the number of rows can be different, but rows must have the same size, as well as the columns.
 
 <h2>Usage</h2>
