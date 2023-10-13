@@ -8,7 +8,8 @@ A program that represents a wireframe model, meaning that a landscape as a 3D ob
 * **Language** : *C*
 
 It takes a .txt file as an input. The file contains rows of numbers : <br>
-![File_format](File_format.png)
+<p>![File_format](File_format.png)</p>
+
 
 Numbers represent the height of the "hills" and can be negative. 
 The number of columns and the number of rows can be different, but rows must have the same size, as well as the columns.
@@ -26,7 +27,8 @@ Scroll with your mouse to zoom in and out.
 
 <h2>Preview</h2>
 
-![Mountain map](Mountain_map2.png)
+<p>![Mountain map](Mountain_map2.png)</p>
+
 
 
 
