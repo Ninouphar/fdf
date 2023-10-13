@@ -24,5 +24,7 @@ Pressing -> and <- arrows makes the map rotate.
 
 <h2>Preview</h2>
 
+![alt text](Pylone_map.pmg) ![alt text](Mountain_map.png)
+
 
 
