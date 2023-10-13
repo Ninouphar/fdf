@@ -7,7 +7,7 @@ A program that represents a wireframe model, meaning that a landscape as a 3D ob
 * **Graphical library** : *Minilibx* (from 42 school)
 * **Language** : *C*
 
-It takes a .txt file as an input. The file contains rows of numbers :
+It takes a .txt file as an input. The file contains rows of numbers : <br>
 ![File_format](File_format.png)
 
 Numbers represent the height of the "hills" and can be negative. 
