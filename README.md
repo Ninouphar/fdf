@@ -18,13 +18,13 @@ To run the program :
 * make
 * ./fdf name_of_map.txt
 
-Pressing Z button increases the heights.
-
-Pressing -> and <- arrows makes the map rotate.
+<h2>Features</h2>
+Press Z button to increase the heights.
+Press -> and <- arrows to make the map rotate.
+Scroll with your mouse to zoom in and out.
 
 <h2>Preview</h2>
 
-![Pylone map](Pylone_map.pmg) 
 ![Mountain map](Mountain_map.png)
 
 
