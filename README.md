@@ -1,8 +1,8 @@
-<h1> Wireframe model <\h1>
+<h1>FdF</h1>
 
 <h2>What is it ? </h2>
 
-A program that represents a landscape as a 3D object in which all surfaces are outlined in lines. You can read the subject [here](00_Projects/03_Graphic/fdf.pdf).
+A program that represents a wireframe model, meaning that a landscape as a 3D object in which all surfaces are outlined in lines. You can read the subject [here](00_Projects/03_Graphic/fdf.pdf).
 
 * **Graphical library** : *Minilibx* (from 42 school)
 * **Language** : *C*
