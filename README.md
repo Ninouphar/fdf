@@ -7,11 +7,11 @@ A program that represents a wireframe model, meaning that a landscape as a 3D ob
 * **Graphical library** : *Minilibx* (from 42 school)
 * **Language** : *C*
 
-It takes a .txt file as an input. The file has to respect the following format :
+It takes a .txt file as an input. The file contains rows of numbers :
 ![File_format](File_format.png)
 
 Numbers represent the height of the "hills" and can be negative. 
-The number of columns and the number of lines can be different.
+The number of columns and the number of rows can be different, but rows must have the same size, as well as the columns.
 
 <h2>Usage</h2>
 
