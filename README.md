@@ -18,8 +18,9 @@ To run the program :
 * make
 * ./fdf name_of_map.txt
 
-Pressing Z button increases the heights
-Pressing -> and <- arrows makes the map rotate
+Pressing Z button increases the heights.
+
+Pressing -> and <- arrows makes the map rotate.
 
 <h2>Preview</h2>
 
